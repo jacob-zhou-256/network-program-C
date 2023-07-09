@@ -2,6 +2,8 @@
     "files.associations": {
         "netdb.h": "c",
         "unistd.h": "c",
-        "inet.h": "c"
-    }
+        "inet.h": "c",
+        "complex": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
